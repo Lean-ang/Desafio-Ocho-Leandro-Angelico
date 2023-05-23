@@ -1,0 +1,77 @@
+[
+  {
+    "id": "19d8b53f-26c0-48e8-b6ac-54awdc97a580c",
+    "title": "Computadora",
+    "description": "Pc Gamer",
+    "stock": 25,
+    "code": "pc256ssd8gb",
+    "price": 33567,
+    "status": true,
+    "thumbnails": [
+      "Sin imagen"
+    ],
+    "category": "Electronica"
+  },
+  {
+    "id": "19d8b53f-26c0-48e8-b6wac-54adc97a580c",
+    "title": "Parlante",
+    "description": "Parlante JBL",
+    "stock": 25,
+    "code": "jbl-2345",
+    "price": 2343,
+    "status": true,
+    "thumbnails": [
+      "Sin imagen"
+    ],
+    "category": "Electronica"
+  },
+  {
+    "id": "19d8b53f-26c0-48e8-b6wac-54adwwc97a580c",
+    "title": "Monitor",
+    "description": "MOnitor TOPHOUSE 24' hdr",
+    "code": "Monitor24hdr34567",
+    "price": 8765,
+    "status": true,
+    "stock": 25,
+    "thumbnails": [
+      "Sin imagen"
+    ],
+    "category": "Electronica"
+  },
+  {
+    "id": "19d8b5w3f-w26c0-48we8-b6ac-54adc97a580c",
+    "title": "Televisor",
+    "description": "Tv Samsung 50' smart",
+    "code": "tv50smart3456",
+    "price": 1234,
+    "status": true,
+    "stock": 25,
+    "thumbnails": [
+      "Sin imagen"
+    ],
+    "category": "Electronica"
+  },
+  {
+    "id": "19d8b5q3f-2w6c0-48e8-b6aqc-54qadc97a580c",
+    "title": "Escritorio",
+    "description": "Escritorio Gamer 3 cajones",
+    "code": "escri-34mss23",
+    "price": "87654",
+    "status": "true",
+    "stock": "12",
+    "thumbnails": "Sin-Imagen",
+    "category": "Muebles"
+  },
+  {
+    "id": "19sd8b53f-26sc0-4d8e8-b6sac-54aadc97a580c",
+    "title": "Computadora Portatil",
+    "description": "320gb-ssd-intel",
+    "code": "lenovo-black-led",
+    "price": "123876",
+    "status": "true",
+    "stock": "9",
+    "thumbnails": "Sin-Imagen",
+    "category": "Electronica"
+  }
+  
+]
